@@ -13,7 +13,6 @@ while tt == True:
         print('Your age is < 0, please try again')
         tt = False
     else:
-        pass
-    year = 2019
-    in_a_hundred = 100 - age + year
-    print('Hello',user, 'The year you will turn 100 is',in_a_hundred)
+        year = 2019
+        in_a_hundred = 100 - age + year
+        print('Hello',user, 'The year you will turn 100 is',in_a_hundred)
