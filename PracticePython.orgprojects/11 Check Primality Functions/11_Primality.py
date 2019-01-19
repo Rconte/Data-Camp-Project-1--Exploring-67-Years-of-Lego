@@ -7,7 +7,7 @@
 #You can (and should!) use your answer to Exercise 4 to help you. Take this opportunity to practice using functions, described below.
 
 
-#def is_it_prime():
+#primality function
 def prime_or_not():
     if number ==2 or number == 3 or number == 5 or number==7 or number==11 :
         print(number, 'Number is PRIME')
@@ -18,7 +18,7 @@ def prime_or_not():
     else:
         print('Number is PRIME')
         
-
+#while loop if the value inserted is negative.
 gg = True
 
 while gg == True:
